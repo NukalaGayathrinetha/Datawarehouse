@@ -1,6 +1,6 @@
 
 
-CREATE DATABASE datawarehouse4;
+CREATE DATABASE datawarehouse;
 
 
 CREATE Schema bronze;
